@@ -1,3 +1,9 @@
+# How to publish this fork
+
+Run this Jenkins job: https://jenkins.tray.io/job/apollo-errors-release
+
+-----------------------------------
+
 # apollo-errors
 Machine-readable custom errors for Apollostack's GraphQL server
 
@@ -105,7 +111,7 @@ function formatError(error) {
   return formatApolloError(error)
 }
 
-``` 
+```
 
 ## API
 
