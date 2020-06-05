@@ -1,5 +1,5 @@
 {
-	"name": "apollo-errors",
+	"name": "@trayio/apollo-errors",
 	"version": "1.9.0",
 	"description": "Machine-readable custom errors for Apollostack's GraphQL server",
 	"main": "dist/index.js",
