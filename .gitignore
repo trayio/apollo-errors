@@ -1,6 +1,7 @@
 # intellij idea
 .idea
 
+dist/
 
 # Logs
 logs
