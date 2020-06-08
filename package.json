@@ -1,6 +1,6 @@
 {
 	"name": "@trayio/apollo-errors",
-	"version": "1.11.0",
+	"version": "1.12.0",
 	"description": "Machine-readable custom errors for Apollostack's GraphQL server",
 	"main": "dist/index.js",
 	"scripts": {
